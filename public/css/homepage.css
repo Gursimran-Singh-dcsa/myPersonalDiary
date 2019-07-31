@@ -1,0 +1,12 @@
+body {
+  border: 1px solid green;
+  background-image: url('../images/logo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -230px;
+  text-align: center;
+}
+.welcomeClass {
+  height: 100%;
+
+}
